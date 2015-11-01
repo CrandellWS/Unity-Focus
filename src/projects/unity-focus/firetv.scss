@@ -1,3 +1,10 @@
+
+/* Custom Styles: */
+
+@import "theme3";
+
+/* End Custom Styles */
+
 @import "../../common/scss/variables";
 
 @import "../../common/scss/mixins";
@@ -14,4 +21,17 @@
         height: 240px;
         width: 240px;
     }
+}
+
+.leftnav-main-container {
+    width: 75%;
+}
+.one-D-details-summary-text .one-D-summary-description{
+    -webkit-line-clamp: 5;
+    -moz-line-clamp: 5;
+    line-clamp: 5;
+}
+
+.leftnav-list-item-static.leftnav-list-item-chosen.subcat-header {
+    width: 75%;
 }
