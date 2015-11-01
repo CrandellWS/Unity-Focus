@@ -1,14 +1,14 @@
 (function(exports) {
     'use strict';
-    
-    //initialize the app
+
     var settings = {
-        Model: JSONMediaModel,
-        PlayerView: PlayerView,
+        Model: YouTubeAPIModel,
+        PlayerView: YouTubePlayerView,
         PlaylistView: PlaylistPlayerView,
-        dataURL: "./assets/genericSubCategoriesData.json",
         showSearch: true,
-        displayButtons:false
+        user: "amazonwebservices",
+        devKey: "PUT-YOUTUBE-API-DEV-KEY-HERE",
+        createCategoriesFromSections: true
     };
 
     exports.app = new App(settings);

@@ -1,5 +1,5 @@
 {
-    "appTitle" : "Simple SubCategories Template",
+    "appTitle" : "YouTube Channels Example",
     "html" : [
         "../../common/html/index.html"
     ],
@@ -9,21 +9,17 @@
     ],
     "assets" : [
         "../../common/images/icon_leftnav_arrowDown.png",
-        "../../common/images/icon_subcat_arrowLeft.png",
         "../../common/images/bg_app.jpg",
-        "../../common/images/bg_subcat.png",
         "../../common/images/btn_pause.png",
         "../../common/images/btn_back.png",
         "../../common/images/img_logo.png",
-        "../../common/images/search.png",
-        "../../common/images/default-image.png",
+        "../../common/images/bg_subcat.png",
+        "../../common/images/icon_subcat_arrowLeft.png",
         "../../common/images/forward-arrow.png",
         "../../common/images/rewind-arrow.png",
-        "../../common/images/skip_indicator.png",
         "../../common/images/btn_previewPlay.png",
-        "../../common/assets/video/*",
-        "../../common/assets/images/*",
-        "genericSubCategoriesData.json"
+        "../../common/images/skip_indicator.png",
+        "../../common/images/search.png"
     ],
     "appJS" : [
         "../../common/js/util.js",
@@ -36,12 +32,12 @@
         "../../common/js/leftnav-view.js",
         "../../common/js/one-d-view.js",
         "../../common/js/shoveler-view.js",
-        "../../common/js/subcat-view.js",
-        "../../common/js/player-view.js",
+        "../../common/js/player-view-youtube.js",
         "../../common/js/playlist-player-view.js",
-        "../../common/js/controls-view.js",
+        "../../common/js/subcat-view.js",
         "../../common/js/search-input-view.js",
-        "../../common/js/model-json.js",
+        "../../common/js/controls-view.js",
+        "../../common/js/model-youtube-api.js",
         "../../common/js/app.js",
         "init.js"
     ],
