@@ -20,6 +20,11 @@
                 type: "multiPlaylists",
                 ids: ["PLBxMIgvbjWQi-iBfXV8u50Gi8GGkrJ300", "PLBxMIgvbjWQiAVQQHrvwbpdVyfV51rCgP","PLBxMIgvbjWQi7fmZR_-U8gsQBUXYLwkE-","PLBxMIgvbjWQgjEnEZVO0m__kqY3a3LQd2"],
                 title: "Interface Essentials"
+            },
+            {
+                type: "multiPlaylists",
+                ids: ["PLBxMIgvbjWQhfmnVHACapgYeT2P4e16bC", "PLBxMIgvbjWQhT0rOUTntzMCkILUrT9Zml","PLBxMIgvbjWQjSosRvlkwP9_5d_Y5ZXCcY","PLBxMIgvbjWQgyINjpRnE4gn_M_68IG0n4"],
+                title: "Physics"
             }
         ],
         displayButtons: false
