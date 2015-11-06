@@ -40,6 +40,11 @@
                 type: "multiPlaylists",
                 ids: ["PLBxMIgvbjWQgy1WFh2AQkktL5HJYktzlQ", "PLBxMIgvbjWQgVcJcuF3HIuqwtPgvZSTyw"],
                 title: "Tips and Tricks"
+            },
+            {
+                type: "multiPlaylists",
+                ids: ["PLBxMIgvbjWQjEMXXB4Sk5vHQITffnMAzO", "PLBxMIgvbjWQi0ckBzCOKji2Xb6Yf1U1eo"],
+                title: "Navigation"
             }
         ],
         displayButtons: false
