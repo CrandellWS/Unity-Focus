@@ -33,6 +33,11 @@
             },
             {
                 type: "multiPlaylists",
+                ids: ["PLBxMIgvbjWQg9PC7VL_SAp4sDZsb1ijdu", "PLBxMIgvbjWQhTtulj_gzIFSt6-i0WgBJF"],
+                title: "Mobile and Touch"
+            },
+            {
+                type: "multiPlaylists",
                 ids: ["PLBxMIgvbjWQgy1WFh2AQkktL5HJYktzlQ", "PLBxMIgvbjWQgVcJcuF3HIuqwtPgvZSTyw"],
                 title: "Tips and Tricks"
             }
