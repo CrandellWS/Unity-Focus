@@ -13,13 +13,13 @@
         channels: [
             {
                 type: "multiPlaylists",
-                ids: ["PLBxMIgvbjWQgy1WFh2AQkktL5HJYktzlQ", "PLBxMIgvbjWQgVcJcuF3HIuqwtPgvZSTyw"],
-                title: "Tips and Tricks"
+                ids: ["PLBxMIgvbjWQi-iBfXV8u50Gi8GGkrJ300", "PLBxMIgvbjWQiAVQQHrvwbpdVyfV51rCgP","PLBxMIgvbjWQi7fmZR_-U8gsQBUXYLwkE-","PLBxMIgvbjWQgjEnEZVO0m__kqY3a3LQd2"],
+                title: "Interface Essentials"
             },
             {
                 type: "multiPlaylists",
-                ids: ["PLBxMIgvbjWQi-iBfXV8u50Gi8GGkrJ300", "PLBxMIgvbjWQiAVQQHrvwbpdVyfV51rCgP","PLBxMIgvbjWQi7fmZR_-U8gsQBUXYLwkE-","PLBxMIgvbjWQgjEnEZVO0m__kqY3a3LQd2"],
-                title: "Interface Essentials"
+                ids: ["PLBxMIgvbjWQgweIXar_xxvWBKv4h2QMky", "PLBxMIgvbjWQjK1phmin0cqwZjw1qyfbc1", "PLBxMIgvbjWQgq4PdM4ekSHRfwQ3QFmerY", "PLBxMIgvbjWQimb7jwHUWAlqblFCbwMJWp", "PLBxMIgvbjWQiFAN_ofGWIBj8mGC0HRu68"],
+                title: "Scripting"
             },
             {
                 type: "multiPlaylists",
@@ -30,6 +30,11 @@
                 type: "multiPlaylists",
                 ids: ["PLBxMIgvbjWQgOQGOBOPtAnEyQJaRG3k5Z", "PLBxMIgvbjWQiuKocKyFYyJlny8S3rwGCm","PLBxMIgvbjWQhn6L2VS-mab1v_EDLALEuF","PLBxMIgvbjWQg6u-eTp5CeNCgHpo9M5jvZ", "PLBxMIgvbjWQiWiqbaVL29SFGKqT-HZypG"],
                 title: "Animation"
+            },
+            {
+                type: "multiPlaylists",
+                ids: ["PLBxMIgvbjWQgy1WFh2AQkktL5HJYktzlQ", "PLBxMIgvbjWQgVcJcuF3HIuqwtPgvZSTyw"],
+                title: "Tips and Tricks"
             }
         ],
         displayButtons: false
