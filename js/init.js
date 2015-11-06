@@ -25,6 +25,11 @@
                 type: "multiPlaylists",
                 ids: ["PLBxMIgvbjWQhfmnVHACapgYeT2P4e16bC", "PLBxMIgvbjWQhT0rOUTntzMCkILUrT9Zml","PLBxMIgvbjWQjSosRvlkwP9_5d_Y5ZXCcY","PLBxMIgvbjWQgyINjpRnE4gn_M_68IG0n4"],
                 title: "Physics"
+            },
+            {
+                type: "multiPlaylists",
+                ids: ["PLBxMIgvbjWQgOQGOBOPtAnEyQJaRG3k5Z", "PLBxMIgvbjWQiuKocKyFYyJlny8S3rwGCm","PLBxMIgvbjWQhn6L2VS-mab1v_EDLALEuF","PLBxMIgvbjWQg6u-eTp5CeNCgHpo9M5jvZ", "PLBxMIgvbjWQiWiqbaVL29SFGKqT-HZypG"],
+                title: "Animation"
             }
         ],
         displayButtons: false
